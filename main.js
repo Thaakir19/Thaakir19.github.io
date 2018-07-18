@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		  
 		filter: function(image) {
 			return image.type === 'image';
-		 }
+		 },
 		   
 		 after: function () {
 			loader.style.display = 'none';
