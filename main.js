@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		get: 'user',
 		userId: '7591003794',
 		clientId: 'b32413e16fd449329239378789ac1ba4',
-		target: 'instafeed'
+		target: 'instafeed',
 		resolution: 'standard_resolution',
 		accessToken: 'c25603cc3144458093c5816aba37c5d9',
 		sortBy: 'most-recent',
