@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		clientId: 'b32413e16fd449329239378789ac1ba4',
 		target: 'instafeed',
 		resolution: 'standard_resolution',
-		accessToken: 'c25603cc3144458093c5816aba37c5d9',
+		accessToken: '7591003794.1677ed0.472a208a354e424d9653c53d7f21aea8',
 		sortBy: 'most-recent',
 		limit : 20,
 		template: '<div class="image-item insta-page">' +
