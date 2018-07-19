@@ -398,13 +398,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		filter: function(image) {
 			return image.type === 'image';
 		 },
-		   
-		 after: function () {
-			loader.style.display = 'none';
-			if (!this.hasNext()) {
-				loadButton.setAttribute('disabled', 'disabled');
-			}
-		}
+		  
 			});
 	
 	userFeed.run();
