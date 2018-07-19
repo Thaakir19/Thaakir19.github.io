@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		resolution: 'standard_resolution',
 		accessToken: '7591003794.1677ed0.472a208a354e424d9653c53d7f21aea8',
 		sortBy: 'most-recent',
-		limit : 20,
+		limit : 3,
 		template: '<div class="image-item insta-page">' +
 		  '<a class="image insta-image" href="{{image}}>' +
 		  '<img alt="{{user.full_name}}" src="{{image}}>' +
